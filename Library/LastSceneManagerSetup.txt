@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/tchong99/a6_Tyrant/Assets/Levels/Tyrant.unity
+- path: Assets/Levels/Tyrant.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
