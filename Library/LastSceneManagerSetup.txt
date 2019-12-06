@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Levels/PointAndGo.unity
+- path: Assets/TyrantRoom/PointAndGo.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
